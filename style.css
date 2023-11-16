@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+}
+
+.main{
+    height: 800px;
+    max-width: 800px;
+    background-color: rgb(255, 255, 255);
+}
+
+.card1{
+    height: 80px;
+    width: 500px;
+}
+
+.first-1{
+    height: 280px;
+    width: 290px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 0px;
+    border: 1px solid blue;
+}
+
+.first-2{
+    height: 180px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: -210px; 
+}
+
+.first-3{
+    height: 180px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: -80px; 
+}
+
+.first-4{
+    height: 180px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-left: 400px;
+    margin-top: -180px; 
+}
+
+.first-5{
+    height: 120px;
+    width: 400px;
+    margin-left: 95px;
+    margin-top: -120px; 
+    background-color: blue;
+}
+
+.second-1{
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    margin-left: 220px;
+    margin-top: 0px; 
+}
+.second-2{
+   height: 160px;
+   width: 160px;
+   background-color: aquamarine;
+   border-radius: 50%;
+   margin-left: 140px;
+   margin-top: -210px;
+}
+
+.second-3{
+    height: 180px;
+   width: 180px;
+   background-color: aquamarine;
+   border-radius: 50%;
+   margin-left: 100px;
+   margin-top: -110px;
+}
+
+.second-4{
+    height: 180px;
+    width: 180px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    margin-left: 345px;
+    margin-top: -180px;
+}
+.second-5{
+    height: 60px;
+    width: 250px;
+    margin-left: 175px;
+    margin-top: -60px; 
+    background-color: aquamarine;
+}
+
+.third-1{
+    height: 220px;
+    width: 220px;
+    background-color:rgb(252, 255, 254);
+    border-radius: 50%;
+    margin-left: 240px;
+    margin-top: -220px;
+}
+.third-2{
+    height: 130px;
+    width: 130px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 50%;
+    margin-left: 180px;
+    margin-top: -180px;  
+}
+.third-3{
+    height: 130px;
+    width: 130px;
+    background-color:rgb(252, 252, 252);
+    border-radius: 50%;
+    margin-left: 160px;
+    margin-top: -80px; 
+}
+.third-4{
+    height: 130px;
+    width: 130px;
+    background-color:rgb(254, 255, 255);
+    border-radius: 50%;
+    margin-left: 350px;
+    margin-top: -130px; 
+}
+.third-5{
+    height: 50px;
+    width: 190px;
+    margin-left: 220px;
+    margin-top: -50px; 
+    background-color: rgb(255, 255, 255);
+}
